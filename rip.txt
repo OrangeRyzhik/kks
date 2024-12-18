@@ -156,4 +156,3 @@ R       192.168.10.128/25 [120/1] via 14.0.0.1, 00:00:23, GigabitEthernet0/2/0
 C       192.168.134.0/26 is directly connected, GigabitEthernet0/0
 L       192.168.134.62/32 is directly connected, GigabitEthernet0/0
 C       192.168.134.64/27 is directly connected, GigabitEthernet0/1
-
